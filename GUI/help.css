@@ -1,0 +1,283 @@
+body{
+	background-color: white;
+	width: 90%;
+	margin: 0 auto;
+}
+
+form{
+	position: relative;
+	height: 750px;
+	/*border: 3px solid gray;*/
+}
+
+img{
+	border:1px solid;
+	border-radius:1px;
+	position: absolute;
+	width: 100px;
+	height: 26px;
+}
+
+label{
+	position: absolute;
+}
+
+div{
+	width: 100%;
+	position: absolute;
+	border-top: 2px solid gray; 
+}
+
+#div1{
+	top: -7px;
+}
+
+#div2{
+	top : 394px;
+}
+
+.imgl1{
+	left: 45px
+}
+
+#img1{
+	top: 20px;
+}
+
+#img2{
+	top: 50px;
+}
+
+#img3{
+	top: 80px;
+}
+
+#img4{
+	left: 585px;
+	top: 80px;
+}
+
+#img5{
+	top: 110px;
+}
+
+#img6{
+	top: 140px;
+}
+
+#img7{
+	top: 170px;
+}
+
+#img8{
+	top: 200px;
+}
+
+#img9{
+	top: 230px;
+}
+
+#img10{
+	top: 260px;
+}
+
+#img11{
+	top: 290px;
+}
+
+#img12{
+	top: 320px;
+}
+
+#img13{
+	width: 550px;
+	height: 328px;
+	left: 770px;
+	top: 0px;
+}
+
+#img21{
+	width: 550px;
+	height: 328px;
+	left: 770px;
+	top: 401px;
+}
+
+#img17{
+	top: 422px;
+	left: 93px;
+}
+
+#img18{
+	top: 422px;
+	left: 231px;
+}
+
+#img19{
+	top: 452px;
+	left: 93px;
+}
+
+#img14{
+	top: 485px;
+	left: 125px;
+	height: 20px;
+}
+
+#img15{
+	top: 515px;
+	left: 125px;
+	height: 20px;
+}
+
+#img16{
+	top: 545px;
+	left: 125px;
+	height: 20px;
+}
+
+#img20{
+	top: 575px;
+	left: 125px;
+	height: 20px;
+}
+
+.lbl1{
+	left: 170px;
+}
+
+#lb1{
+	left: 40px;
+	top: -4px;
+}
+
+#lb2{
+	top: 23px;
+}
+
+#lb3{
+	top: 53px;
+}
+
+#lb4{
+	top: 83px;
+}
+
+#lb5{
+	top: 113px;
+}
+
+#lb6{
+	top: 143px;
+}
+
+#lb7{
+	top: 173px;
+}
+
+#lb8{
+	top: 203px;
+}
+
+#lb9{
+	top: 233px;
+}
+
+#lb10{
+	top: 263px;
+}
+
+#lb11{
+	top: 293px;
+}
+
+#lb12{
+	top: 323px;
+}
+
+#lb13{
+	top: 83px;
+	left: 695px;
+}
+
+#lb14{
+	left: 40px;
+	top: 396px;
+}
+
+.lbl2{
+	left: 45px;
+}
+
+#lb15{
+	top: 425px;
+}
+
+#lb15-2{
+	top: 425px;
+	left: 206px;
+}
+
+#lb15-3{
+	top: 425px;
+	left: 342px;
+}
+
+#lb16{
+	top: 455px;
+}
+
+#lb16-1{
+	top: 455px;
+	left: 206px;
+}
+
+#lb17{
+	top: 485px;
+}
+
+#lb17-1{
+	top: 485px;
+	left: 238px;
+}
+
+#lb18{
+	top: 515px;
+}
+
+#lb18-1{
+	top: 515px;
+	left: 238px;
+}
+
+#lb19{
+	top: 545px;
+}
+
+#lb19-1{
+	top: 545px;
+	left: 238px;
+}
+
+#lb20{
+	top: 575px;
+}
+
+#lb20-1{
+	top: 575px;
+	left: 238px;
+}
+
+#lb21{
+	top: 605px;
+	left: 50px;
+}
+
+span{
+	color: red;
+	/*font-size: 13px;*/
+}
+
+#lb22{
+	top: 635px;
+}

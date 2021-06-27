@@ -1,0 +1,113 @@
+WQWidget{
+  background-color : red;
+}
+
+QLabel {
+  font-weight : 500;
+  font-size: 15px;
+}
+
+WQScrollArea#scrollArea {
+  background-color : black;
+  background-image : url(./source/button.png);
+}
+
+QPushButton {
+  font-weight : 800;
+  font-size: 15px;
+  background-color : gray;
+  padding:3px;
+  min-height:5px;
+  border-radius:5px;
+}
+
+QPushButton:hover {
+  color: #2F4F4F;
+}
+
+QPushButton#Mode1 {
+  qproperty-icon: url(./source/streaming.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#Mode2 {
+  qproperty-icon: url(./source/video.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#fullscreen {
+  qproperty-icon: url(./source/icon.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#path_setting {
+  qproperty-icon: url(./source/folder_setting.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#record {
+  qproperty-icon: url(./source/settings.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#language {
+  qproperty-icon: url(./source/language.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#help {
+  qproperty-icon: url(./source/question.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#Open {
+  qproperty-icon: url(./source/folder.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#Clear {
+  qproperty-icon: url(./source/broom.png);
+  qproperty-iconSize: 25px 25px;
+}
+
+QPushButton#Close {
+  qproperty-icon: url(./source/close.png);
+  qproperty-iconSize: 20px 20px;
+}
+
+QLabel#AllPeople{
+  image : url(./source/workers.png);
+  border : 1px solid gray;
+}
+
+QLabel#WithoutHM{
+  color : #ff0000;
+  image : url(./source/employee.png);
+  border : 1px solid gray;
+}
+
+QLabel#WithHM{
+  color : #00cc00;
+  image : url(./source/worker.png);
+  border : 1px solid gray;
+}
+
+QLabel#Status{
+  border : 1px solid gray;
+}
+
+QLabel#illegal{
+  border : 1px solid gray;
+}
+
+QLabel#label_2{
+  border : 1px solid gray;
+}
+
+QLCDNumber{
+  border : none;
+  color : white;
+}
+
+
+

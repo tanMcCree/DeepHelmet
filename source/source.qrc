@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="qss">
+    <file>style.qss</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>icons8-video-50.png</file>
+    <file>icons8-music-48.png</file>
+    <file>icons8-help-80.png</file>
+    <file>icons8-folder-96.png</file>
+  </qresource>
+</RCC>
